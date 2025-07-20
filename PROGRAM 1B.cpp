@@ -1,6 +1,12 @@
+// NAME: YASH SHRIVASTAVA
+// PRN: 24070123137
+// BATCH: E&TC-B2
+// TITLE: Calculator Program (EXPERIMENT: 1B)
+
 #include <iostream>
 using namespace std;
 int main() {
+    
     float num1, num2, sum=0, diff, prod, div;
     cout<<"ENTER FIRST NUMBER:";
     cin>>num1;
